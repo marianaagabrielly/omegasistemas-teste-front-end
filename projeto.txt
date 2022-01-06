@@ -30,4 +30,4 @@
       "uid": 23
       "uf": "Amazonas",
       "state": "AM",
-      "cases": 197
+      "cases":  197;
