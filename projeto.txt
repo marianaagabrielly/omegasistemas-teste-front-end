@@ -1,0 +1,33 @@
+
+  "data": [
+    {
+      "uid": 200
+      "uf": "Rio de janeiro"
+      "state": "RJ"
+      "cases":  379
+      "deaths": 159
+      "suspects": 61,
+      "refuses": 7
+      "broadcast": verdadeiro
+      "comments": "",
+      "datetime": "2021-01 18T13 18:55
+      
+      
+      
+      {
+      "uid": 0027
+      "uf": "Acre "
+      "state": "AC",
+      "cases": 237
+      "deaths": 102
+      "suspects": 56
+      "refuses": 6   
+      "broadcast": true;
+      "comments": "",
+      "datetime": "2021-04" 18T43 0000 - z
+    },
+    {
+      "uid": 23
+      "uf": "Amazonas",
+      "state": "AM",
+      "cases": 197
